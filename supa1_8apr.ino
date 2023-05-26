@@ -67,7 +67,7 @@ void loop()
     digitalWrite(in2,LOW);
     analogWrite(enA_first, 255);
 
-    delay(7000);
+    delay(2500);
 
     digitalWrite(in1, LOW);
     digitalWrite(in2, LOW);
@@ -89,7 +89,7 @@ void loop()
     digitalWrite(in2,LOW);
     analogWrite(enA_first, 255);
 
-    delay(3000);
+    delay(2500);
 
     digitalWrite(in1, LOW);
     digitalWrite(in2, LOW);
@@ -117,7 +117,7 @@ void loop()
     digitalWrite(in2,LOW);
     analogWrite(enA_first, 255);
 
-    delay(10000);
+    delay(2500);
 
     digitalWrite(in1, LOW);
     digitalWrite(in2, LOW);
